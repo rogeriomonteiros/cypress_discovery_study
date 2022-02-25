@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "rogerio",
+        "cpf": "00365701505",
+        "email": "rogeriomonteiro@gmail.com",
+        "whatsapp": "71988309722",
+        "address": {
+            "postalcode": "41720075",
+            "street": "Rua Jayme Sapolnik",
+            "number": "1184",
+            "details": "cond vivai",
+            "district": "Imbuí",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "teste",
+        "cpf": "003657015AA",
+        "email": "teste@gmail.com",
+        "whatsapp": "7199999999",
+        "address": {
+            "postalcode": "41720075",
+            "street": "Rua Jayme Sapolnik",
+            "number": "1184",
+            "details": "cond vivai",
+            "district": "Imbuí",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "rogerio",
+        "cpf": "00365701505",
+        "email": "rogeriomonteiro.com",
+        "whatsapp": "71988309722",
+        "address": {
+            "postalcode": "41720075",
+            "street": "Rua Jayme Sapolnik",
+            "number": "1184",
+            "details": "cond vivai",
+            "district": "Imbuí",
+            "city_state": "Salvador/BA"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
